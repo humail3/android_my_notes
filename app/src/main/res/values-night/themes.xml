@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!--    <style name="Base.Theme.MyNotes" parent="Theme.Material3.DayNight.NoActionBar">-->
+    <!--        &lt;!&ndash; Customize your dark theme here. &ndash;&gt;-->
+    <!--        &lt;!&ndash; <item name="colorPrimary">@color/my_dark_primary</item> &ndash;&gt;-->
+    <!--    </style>-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme if needed -->
+    </style>
+
+</resources>

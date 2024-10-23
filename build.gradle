@@ -1,0 +1,49 @@
+buildscript {
+    dependencies {
+        classpath 'com.google.gms:google-services:4.3.15'
+        classpath 'com.android.tools.build:gradle:7.1.2'
+
+        //for adding image
+//        classpath 'com.google.gms:google-services:4.3.8'
+    }
+
+    repositories {
+        jcenter()
+        mavenCentral()
+        maven(){
+            url "https://oss.sonatype.org/content/repositories/snapshots"
+        }
+        google()
+    }
+
+
+//    repositories {
+//        mavenCentral() // Or other relevant repositories
+//    }
+
+}// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '8.0.1' apply false
+    id 'com.android.library' version '8.0.1' apply false
+
+    id("com.google.gms.google-services") version "4.3.15" apply false
+
+}
+
+//allprojects {
+//    repositories {
+//        jcenter()
+//        mavenCentral()
+//        maven(){
+//            url "https://oss.sonatype.org/content/repositories/snapshots"
+//        }
+//        google()
+//    }
+//}
+
+//for color picker dependency
+//allprojects {
+//    repositories {
+//        mavenCentral()
+//    }
+//}

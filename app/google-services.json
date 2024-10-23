@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047899533233",
+    "project_id": "my-notes-2fbc1",
+    "storage_bucket": "my-notes-2fbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047899533233:android:a62ea11dd2260cfc741790",
+        "android_client_info": {
+          "package_name": "com.novahumail.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047899533233-hgtrr03l07a4ijkh9p5bkh37qqsk80ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqk3flIVHx5sqSRHqir4TBaYrL2Sc1EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047899533233-hgtrr03l07a4ijkh9p5bkh37qqsk80ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
